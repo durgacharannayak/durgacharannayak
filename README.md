@@ -37,5 +37,3 @@ I am open for internships, You can send me your offer through mail.***
 ![](https://img.shields.io/github/followers/durgacharannayak?label=Durgacharan-Nayak&style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgacharannayak" alt="https://github.com/durgacharannayak"> </p>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
