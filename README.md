@@ -1,7 +1,7 @@
 ## 👋 Hiieee, Myself Durgacharan Nayak. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
 
 
- ***I'm a third year student at Vasantdada Patil Pratishthan's College of Engineering, Mumbai pursuing Bachelor of Engineering in IT Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+ ***I'm a final year student at Vasantdada Patil Pratishthan's College of Engineering, Mumbai pursuing Bachelor of Engineering in IT Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am interested in  Web Development, Software Development & Cyber security Enthusiast and working on and learning in these fields.
 I am open for internships, You can send me your offer through mail.***
 <br>
@@ -11,7 +11,7 @@ I am open for internships, You can send me your offer through mail.***
 - [x] 🔭 **I’m currently working on**
    ####      ![](https://img.shields.io/badge/Distibuted__Database-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/IoT-%7C-yellowgreen) ![](https://img.shields.io/badge/C-%7C-blue)  
 - [x] 🌱 **I’m currently learning** **Competitive Programming & Distributed Database**
-- [x] 👯 **I’m looking to collaborate on different projects of Web Development,IoT,Software Development & Distributed Database**
+- [x] 👯 **I’m looking to collaborate on different projects of Web Development, IoT, Software Development & Distributed Database**
 - [x] 💬 **How to reach me: [Linkedin](https://www.linkedin.com/in/durgacharannayak/)**
 - [x] ⚡ **Fun fact: I like to play cricket, read fiction books.**
 
